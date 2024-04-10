@@ -1,4 +1,4 @@
-= Deploying a new Ruby Koans ZIP file
+if Deploying a new Ruby Koans ZIP file
 
 The "Download" button on the rubykoans.com web-site points to the
 download/rubykoans.zip file in the github repository. So to update the
